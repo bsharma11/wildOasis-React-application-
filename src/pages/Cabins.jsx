@@ -2,7 +2,7 @@ import Heading from "../ui/Heading";
 import Row from "../ui/Row";
 
 import CabinTable from "../features/cabins/CabinTable";
-import CabinTableOperations from "../features/cabins/cabintableOperations";
+import CabinTableOperations from "../features/cabins/CabinTableOperations";
 
 import Addcabin from "../features/cabins/Addcabin";
 
