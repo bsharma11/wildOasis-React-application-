@@ -1,2 +1,3 @@
-#The Wild Oasis
-Learnings from the React course.
+# The Wild Oasis
+
+Learnings from the React course. Built with React Query and Supabase.
